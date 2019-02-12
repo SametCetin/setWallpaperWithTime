@@ -1,0 +1,10 @@
+D:\sct\Projects\cs\setWallPaperWithTime\setWallPaperWithTime\bin\Release\setWallPaperWithTime.exe.config
+D:\sct\Projects\cs\setWallPaperWithTime\setWallPaperWithTime\bin\Release\setWallPaperWithTime.exe
+D:\sct\Projects\cs\setWallPaperWithTime\setWallPaperWithTime\bin\Release\setWallPaperWithTime.pdb
+D:\sct\Projects\cs\setWallPaperWithTime\setWallPaperWithTime\obj\Release\setWallPaperWithTime.csprojResolveAssemblyReference.cache
+D:\sct\Projects\cs\setWallPaperWithTime\setWallPaperWithTime\obj\Release\setWallPaperWithTime.Form1.resources
+D:\sct\Projects\cs\setWallPaperWithTime\setWallPaperWithTime\obj\Release\setWallPaperWithTime.Properties.Resources.resources
+D:\sct\Projects\cs\setWallPaperWithTime\setWallPaperWithTime\obj\Release\setWallPaperWithTime.csproj.GenerateResource.cache
+D:\sct\Projects\cs\setWallPaperWithTime\setWallPaperWithTime\obj\Release\setWallPaperWithTime.csproj.CoreCompileInputs.cache
+D:\sct\Projects\cs\setWallPaperWithTime\setWallPaperWithTime\obj\Release\setWallPaperWithTime.exe
+D:\sct\Projects\cs\setWallPaperWithTime\setWallPaperWithTime\obj\Release\setWallPaperWithTime.pdb
