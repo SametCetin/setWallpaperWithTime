@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
-
+using Microsoft.Win32;
 
 namespace setWallPaperWithTime
 {
@@ -61,6 +61,10 @@ namespace setWallPaperWithTime
 
         public void SetWallpaper(String path)
         {
+            RegistryKey key = Registry.CurrentUser.OpenSubKey(@"Control Panel\Desktop", true);
+
+            key.SetValue(@"WallpaperStyle", 2.ToString());
+            key.SetValue(@"TileWallpaper", 0.ToString());
             try
             {
                 SystemParametersInfo(SPI_SETDESKWALLPAPER, 0, path,
